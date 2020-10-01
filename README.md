@@ -2,7 +2,7 @@
 
 * How to install
 
-       git clone https://github.com/cb-kali/Web-Scraping.git
+      git clone https://github.com/cb-kali/Web-Scraping.git
 
 * How to use Web_scraping.py
 
